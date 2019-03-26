@@ -28,5 +28,10 @@
 		<li>git init</li>
 		<li>git add</li>
 	</ul>
+	<ul>
+		<li>Oracle</li>
+		<li>MySQL</li>
+		<li>MSSQL</li>
+	</ul>
 </body>
 </html>

@@ -11,6 +11,7 @@
 		<li>HTML</li>
 		<li>CSS</li>
 		<li>JAVASCRIPT</li>
+		<li>JQUERY</li>
 	</ul>
 </body>
 </html>

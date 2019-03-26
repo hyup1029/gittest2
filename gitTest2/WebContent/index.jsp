@@ -18,5 +18,10 @@
 		<li>SERVLET</li>
 		<li>jdbc</li>
 	</ul>
+	<ul>
+		<li>git 기본</li>
+		<li>git init</li>
+		<li>git add</li>
+	</ul>
 </body>
 </html>

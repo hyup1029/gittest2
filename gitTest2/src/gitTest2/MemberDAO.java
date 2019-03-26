@@ -13,5 +13,7 @@ public class MemberDAO {
 	public void insert() {
 		
 	}
-
+	public void modify() {
+		
+	}
 }
